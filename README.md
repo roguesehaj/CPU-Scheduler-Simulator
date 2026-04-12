@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome CPU Scheduler Simulator
 
-TODO: Document your project here
+Kive aa sengh
